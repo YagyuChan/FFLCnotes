@@ -1,2 +1,0 @@
-# FFLCnotes
-FFLC Patch notes
